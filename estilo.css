@@ -1,0 +1,36 @@
+/* CSS Document */
+
+body {
+	background-image:  url(imagens/bg.jpg);
+	font-family:"Trebuchet MS", Verdana, Arial, sans-serif;
+}
+
+#topo {
+	background-color: #FFFFFF;
+	background-image: url(imagens/logoPHPpequeno.gif);
+	background-repeat: no-repeat;
+	background-position: center left;
+	
+	height: 86px;
+	
+	color: #084DB5;
+	text-align:center;
+}
+
+#conteudo {
+	min-height: 155px;
+	background-color:#FFFFCC;
+	padding: 20px;
+	text-align: center;
+}
+
+#rodape {
+	font-size: 10px;
+	text-align: center;
+}
+
+.destaque {
+	color:#339900;
+	font-weight: bold;
+	font-size: 20px;
+}
